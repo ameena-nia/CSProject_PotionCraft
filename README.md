@@ -5,6 +5,7 @@ You start the game after you have just opened your new potions shop. Unfortunate
 
 ## Compiling and Running:
 **Makefile commands:**
+
 *make proj2* - links Game class, Shop class, and Ingredient header file to main project file.
 
 *make run* - runs the proj2 executable
